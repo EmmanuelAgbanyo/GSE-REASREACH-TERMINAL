@@ -1,0 +1,5 @@
+{
+  "name": "GSE Financial Research Terminal",
+  "description": "An AI-powered research tool that provides up-to-date information on companies listed on the Ghana Stock Exchange by leveraging web search capabilities.",
+  "requestFramePermissions": []
+}
